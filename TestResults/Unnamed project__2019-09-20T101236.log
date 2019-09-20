@@ -1,0 +1,68 @@
+﻿2019-09-20T10:12:14.0808347-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-20T10:12:14.0808347-04:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-09-20T10:12:14.0808347-04:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-20T10:12:14.1368042-04:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Admin\bin\Debug\StudentBlue.AcceptanceTests.Admin.dll
+2019-09-20T10:12:14.1368042-04:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\TestResults" (default)
+2019-09-20T10:12:14.1368042-04:00;VSTestExecutionThread;Info;Profile: 
+2019-09-20T10:12:14.1697850-04:00;VSTestExecutionThread;Info;Log file path: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\TestResults\Unnamed project__2019-09-20T101214.log
+2019-09-20T10:12:14.2027646-04:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-20T10:12:14.2097601-04:00;VSTestExecutionThread;Info;Checking license
+2019-09-20T10:12:14.2257529-04:00;VSTestExecutionThread;Info;Evaluation mode: test execution starts in 9 seconds... (this delay is removed in the registered version)
+2019-09-20T10:12:23.2267023-04:00;VSTestExecutionThread;Info;Evaluation delay finished.
+2019-09-20T10:12:23.2537124-04:00;VSTestExecutionThread;Info;License check completed
+2019-09-20T10:12:23.2537124-04:00;VSTestExecutionThread;Info;starting test run
+2019-09-20T10:12:23.2756988-04:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-09-20T10:12:23.2756988-04:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Admin\bin\Debug\StudentBlue.AcceptanceTests.Admin.dll
+2019-09-20T10:12:23.7411508-04:00;VSTestExecutionThread;Info;Discovered tests from assembly: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Admin\bin\Debug\StudentBlue.AcceptanceTests.Admin.dll
+2019-09-20T10:12:33.3641208-04:00;VSTestExecutionThread;Info;test run finished
+2019-09-20T10:12:33.3651212-04:00;VSTestExecutionThread;Info;publishing test results
+2019-09-20T10:12:33.3791121-04:00;VSTestExecutionThread;Info;test results published
+2019-09-20T10:12:33.3791121-04:00;VSTestExecutionThread;Info;generating reports
+2019-09-20T10:12:33.5640074-04:00;VSTestExecutionThread;Info;Starting external report generation process
+2019-09-20T10:12:36.3444244-04:00;VSTestExecutionThread;Info;Successfully generated reports.
+2019-09-20T10:12:36.3484217-04:00;VSTestExecutionThread;Info;Successfully generated reports
+2019-09-20T10:12:36.3754073-04:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-20T10:12:36.3754073-04:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\TestResults\Unnamed project__2019-09-20T101214.html'
+2019-09-20T10:12:36.4074707-04:00;VSTestExecutionThread;Info;Log file: file:///C:%5CUsers%5Crachmanw%5Csource%5Crepos%5CBDDAutomationProjectTemplate%5CTestResults%5CUnnamed%20project__2019-09-20T101214.log
+2019-09-20T10:12:36.4434753-04:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Common\bin\Debug\StudentBlue.AcceptanceTests.Common.dll
+2019-09-20T10:12:36.4434753-04:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\TestResults" (default)
+2019-09-20T10:12:36.4434753-04:00;VSTestExecutionThread;Info;Profile: 
+2019-09-20T10:12:36.4484718-04:00;VSTestExecutionThread;Info;Log file path: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\TestResults\Unnamed project__2019-09-20T101236.log
+2019-09-20T10:12:36.4504708-04:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-20T10:12:36.4514708-04:00;Thread#19;Info;Checking license
+2019-09-20T10:12:36.4534686-04:00;Thread#19;Info;Evaluation mode: test execution starts in 7 seconds... (this delay is removed in the registered version)
+2019-09-20T10:12:43.4550283-04:00;Thread#19;Info;Evaluation delay finished.
+2019-09-20T10:12:43.4560282-04:00;Thread#19;Info;License check completed
+2019-09-20T10:12:43.4570285-04:00;Thread#19;Info;starting test run
+2019-09-20T10:12:43.4590260-04:00;Thread#19;Info;Discovering target: Default
+2019-09-20T10:12:43.4600240-04:00;Thread#19;Info;Discovering tests from assembly: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Common\bin\Debug\StudentBlue.AcceptanceTests.Common.dll
+2019-09-20T10:12:43.5884788-04:00:Appdomain Disposed
+2019-09-20T10:12:43.5884788-04:00;Thread#19;Info;Discovered tests from assembly: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Common\bin\Debug\StudentBlue.AcceptanceTests.Common.dll
+2019-09-20T10:12:43.5894803-04:00:Test Suite Dump
+2019-09-20T10:12:43.5894803-04:00:#0: Unnamed project/ - 
+2019-09-20T10:12:43.5894803-04:00:End: Test Suite Dump
+2019-09-20T10:12:43.5904786-04:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-20T10:12:43.5904786-04:00:Thread#:Scheduler: at the end of normal test queue
+2019-09-20T10:12:43.5904786-04:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-09-20T10:12:43.5904786-04:00:Thread#0:Scheduler: No more tests for thread
+2019-09-20T10:12:43.5904786-04:00:Trying to cancel thread
+2019-09-20T10:12:43.5904786-04:00:Thread cancelled
+2019-09-20T10:12:43.5904786-04:00:Thread#-1:Scheduler: get next test for thread -1
+2019-09-20T10:12:43.5904786-04:00:Thread#:Scheduler: at the end of normal test queue
+2019-09-20T10:12:43.5904786-04:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-09-20T10:12:43.5904786-04:00;Thread#19;Info;test run finished
+2019-09-20T10:12:43.5904786-04:00;Thread#19;Info;publishing test results
+2019-09-20T10:12:43.5904786-04:00;Thread#19;Info;test results published
+2019-09-20T10:12:43.5914782-04:00;Thread#19;Info;generating reports
+2019-09-20T10:12:43.6164639-04:00;Thread#19;Info;Starting external report generation process
+2019-09-20T10:12:46.5733296-04:00;Thread#19;Error;Could not generate test run result reports. An error occurred in the generator.
+2019-09-20T10:12:46.5733296-04:00;Thread#19;Error;External program returned exit code '-2'
+2019-09-20T10:12:46.5743295-04:00;Thread#19;Info;Failed generating reports
+2019-09-20T10:12:46.5753290-04:00:Total: 0
+2019-09-20T10:12:46.5753290-04:00:Succeeded: 0
+2019-09-20T10:12:46.5753290-04:00:Ignored: 0
+2019-09-20T10:12:46.5753290-04:00:Pending: 0
+2019-09-20T10:12:46.5753290-04:00:Skipped: 0
+2019-09-20T10:12:46.5753290-04:00:Failed: 0
+2019-09-20T10:12:46.5763282-04:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

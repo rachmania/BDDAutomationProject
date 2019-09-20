@@ -1,0 +1,2 @@
+C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\CSharpCodingExperiments\obj\Debug\CSharpCodingExperiments.csprojAssemblyReference.cache
+C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\CSharpCodingExperiments\obj\Debug\CSharpCodingExperiments.csproj.CoreCompileInputs.cache

@@ -1,0 +1,121 @@
+﻿2019-09-20T11:11:50.0532708-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-20T11:11:50.0532708-04:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-09-20T11:11:50.0532708-04:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-20T11:11:50.1432202-04:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Admin\bin\Debug\StudentBlue.AcceptanceTests.Admin.dll
+2019-09-20T11:11:50.1442197-04:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\TestResults" (default)
+2019-09-20T11:11:50.1442197-04:00;VSTestExecutionThread;Info;Profile: 
+2019-09-20T11:11:50.1821981-04:00;VSTestExecutionThread;Info;Log file path: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\TestResults\Unnamed project__2019-09-20T111150.log
+2019-09-20T11:11:50.2221740-04:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-20T11:11:50.2321704-04:00;Thread#13;Info;Checking license
+2019-09-20T11:11:50.2511583-04:00;Thread#13;Info;Evaluation mode: test execution starts in 7 seconds... (this delay is removed in the registered version)
+2019-09-20T11:11:57.2523611-04:00;Thread#13;Info;Evaluation delay finished.
+2019-09-20T11:11:57.2573204-04:00;Thread#13;Info;License check completed
+2019-09-20T11:11:57.2573204-04:00;Thread#13;Info;starting test run
+2019-09-20T11:11:57.2693120-04:00;Thread#13;Info;Discovering target: Default
+2019-09-20T11:11:57.2693120-04:00;Thread#13;Info;Discovering tests from assembly: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Admin\bin\Debug\StudentBlue.AcceptanceTests.Admin.dll
+2019-09-20T11:11:57.7348698-04:00:Appdomain Disposed
+2019-09-20T11:11:57.7348698-04:00;Thread#13;Info;Discovered tests from assembly: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Admin\bin\Debug\StudentBlue.AcceptanceTests.Admin.dll
+2019-09-20T11:11:57.7358705-04:00:Test Suite Dump
+2019-09-20T11:11:57.7368689-04:00:#0: Unnamed project/ - 
+2019-09-20T11:11:57.7368689-04:00:#1: Default - 
+2019-09-20T11:11:57.7368689-04:00:#2: StudentBlue.AcceptanceTests.Admin - 
+2019-09-20T11:11:57.7368689-04:00:#3: Login - 
+2019-09-20T11:11:57.7808440-04:00:#4: Log in with SBAdmin - TestAssembly:StudentBlue.AcceptanceTests.Admin/Feature:Login/Scenario:Log+in+with+SBAdmin
+2019-09-20T11:11:57.7808440-04:00:#5: Log in with UNC System Admin - TestAssembly:StudentBlue.AcceptanceTests.Admin/Feature:Login/Scenario:Log+in+with+UNC+System+Admin
+2019-09-20T11:11:57.7808440-04:00:#6: Failed Log in - TestAssembly:StudentBlue.AcceptanceTests.Admin/Feature:Login/Scenario:Failed+Log+in
+2019-09-20T11:11:57.7808440-04:00:End: Test Suite Dump
+2019-09-20T11:11:57.8048492-04:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-20T11:11:57.8068475-04:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-09-20T11:11:57.8068475-04:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-09-20T11:11:57.8108456-04:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-20T11:11:57.8108456-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-09-20T11:11:57.8108456-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-09-20T11:11:57.8108456-04:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-09-20T11:11:57.8128257-04:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-09-20T11:11:57.8148464-04:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-09-20T11:11:57.8168451-04:00:Thread #0: creating new test thread executor for StudentBlue.AcceptanceTests.Admin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-09-20T11:11:57.8188434-04:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-09-20T11:11:57.8198429-04:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-09-20T11:11:57.8248196-04:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-09-20T11:11:58.2286330-04:00:Thread#0: Test #4/0 is started on thread #0
+2019-09-20T11:11:58.4284011-04:00:Thread#0:T:-> Loading plugin C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Admin\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-09-20T11:11:58.4593659-04:00:Thread#0:T:-> Using default config
+2019-09-20T11:11:58.5313242-04:00:Thread#0:B:Given I am at the login page
+2019-09-20T11:12:04.3480692-04:00:Thread#0:T:done: LoginSteps.GivenIAmAtTheLoginPage() (5.7s)
+2019-09-20T11:12:04.3490687-04:00:Thread#0:B:And I have entered username 'rachman.walker+sbadmin@atlanticbt.com'
+2019-09-20T11:12:04.7328490-04:00:Thread#0:T:done: LoginSteps.GivenIHaveEnteredUsername("rachman.walker+sb...") (0.4s)
+2019-09-20T11:12:04.7328490-04:00:Thread#0:B:And I have entered password 'Password01!'
+2019-09-20T11:12:04.9267396-04:00:Thread#0:T:done: LoginSteps.GivenIHaveEnteredPassword("Password01!") (0.2s)
+2019-09-20T11:12:04.9267396-04:00:Thread#0:B:When I click login
+2019-09-20T11:12:10.0965780-04:00:Thread#0:T:done: LoginSteps.WhenIClickLogin() (5.2s)
+2019-09-20T11:12:10.0965780-04:00:Thread#0:B:Then I should be at the SBAdmin Home Page
+2019-09-20T11:12:10.1865270-04:00:Thread#0:T:done: LoginSteps.ThenIShouldBeAtTheSBAdminHomePage() (0.1s)
+2019-09-20T11:12:10.2035158-04:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-20T11:12:10.2045157-04:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-09-20T11:12:10.2045157-04:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-09-20T11:12:10.2045157-04:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-20T11:12:10.2045157-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-09-20T11:12:10.2045157-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-09-20T11:12:10.2045157-04:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-09-20T11:12:10.2045157-04:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-09-20T11:12:10.2045157-04:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-09-20T11:12:11.1389789-04:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 12.9093471 seconds
+2019-09-20T11:12:11.1409795-04:00:Thread#0: Test #5/0 is started on thread #0
+2019-09-20T11:12:11.1409795-04:00:Thread#0:B:Given I am at the login page
+2019-09-20T11:12:15.6743500-04:00:Thread#0:T:done: LoginSteps.GivenIAmAtTheLoginPage() (4.5s)
+2019-09-20T11:12:15.6753483-04:00:Thread#0:B:And I have entered username 'rachman.walker+ncadmin@atlanticbt.com'
+2019-09-20T11:12:15.8852281-04:00:Thread#0:T:done: LoginSteps.GivenIHaveEnteredUsername("rachman.walker+nc...") (0.2s)
+2019-09-20T11:12:15.8852281-04:00:Thread#0:B:And I have entered password 'Password01!'
+2019-09-20T11:12:15.9991626-04:00:Thread#0:T:done: LoginSteps.GivenIHaveEnteredPassword("Password01!") (0.1s)
+2019-09-20T11:12:15.9991626-04:00:Thread#0:B:When I click login
+2019-09-20T11:12:19.1832628-04:00:Thread#0:T:done: LoginSteps.WhenIClickLogin() (3.2s)
+2019-09-20T11:12:19.1842627-04:00:Thread#0:B:Then I should be at the SBAdmin Home Page
+2019-09-20T11:12:19.2502247-04:00:Thread#0:T:done: LoginSteps.ThenIShouldBeAtTheSBAdminHomePage() (0.1s)
+2019-09-20T11:12:19.2502247-04:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-20T11:12:19.2502247-04:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-09-20T11:12:19.2502247-04:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-09-20T11:12:19.2502247-04:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-20T11:12:19.2502247-04:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-09-20T11:12:19.2502247-04:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-09-20T11:12:19.2502247-04:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-09-20T11:12:19.2502247-04:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-09-20T11:12:19.2502247-04:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-09-20T11:12:20.3425971-04:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 9.2016176 seconds
+2019-09-20T11:12:20.3425971-04:00:Thread#0: Test #6/0 is started on thread #0
+2019-09-20T11:12:20.3435970-04:00:Thread#0:B:Given I am at the login page
+2019-09-20T11:12:25.2234886-04:00:Thread#0:T:done: LoginSteps.GivenIAmAtTheLoginPage() (4.9s)
+2019-09-20T11:12:25.2234886-04:00:Thread#0:B:And I have entered username 'NotARealUser@atlanticbt.com'
+2019-09-20T11:12:25.4533569-04:00:Thread#0:T:done: LoginSteps.GivenIHaveEnteredUsername("NotARealUser@atla...") (0.2s)
+2019-09-20T11:12:25.4533569-04:00:Thread#0:B:And I have entered password 'abcdef'
+2019-09-20T11:12:25.5902793-04:00:Thread#0:T:done: LoginSteps.GivenIHaveEnteredPassword("abcdef") (0.1s)
+2019-09-20T11:12:25.5902793-04:00:Thread#0:B:When I click login
+2019-09-20T11:12:26.1049832-04:00:Thread#0:T:done: LoginSteps.WhenIClickLogin() (0.5s)
+2019-09-20T11:12:26.1049832-04:00:Thread#0:B:Then I should be at the login page
+2019-09-20T11:12:26.1629494-04:00:Thread#0:T:done: LoginSteps.ThenIShouldBeAtTheLoginPage() (0.1s)
+2019-09-20T11:12:26.1629494-04:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-20T11:12:26.1629494-04:00:Thread#:Scheduler: at the end of normal test queue
+2019-09-20T11:12:26.1629494-04:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-09-20T11:12:26.1629494-04:00:Thread#0:Scheduler: No more tests for thread
+2019-09-20T11:12:29.0869412-04:00:Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 8.7443441 seconds
+2019-09-20T11:12:29.1059314-04:00:Appdomain Disposed
+2019-09-20T11:12:29.1079293-04:00:Trying to cancel thread
+2019-09-20T11:12:29.1079293-04:00:Thread cancelled
+2019-09-20T11:12:29.1149259-04:00:Thread#-1:Scheduler: get next test for thread -1
+2019-09-20T11:12:29.1149259-04:00:Thread#:Scheduler: at the end of normal test queue
+2019-09-20T11:12:29.1149259-04:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-09-20T11:12:29.1169246-04:00;Thread#13;Info;test run finished
+2019-09-20T11:12:29.1179237-04:00;Thread#13;Info;publishing test results
+2019-09-20T11:12:29.1359144-04:00;Thread#13;Info;test results published
+2019-09-20T11:12:29.1369139-04:00;Thread#13;Info;generating reports
+2019-09-20T11:12:29.2878281-04:00;Thread#13;Info;Starting external report generation process
+2019-09-20T11:12:32.5882723-04:00;Thread#13;Info;Successfully generated reports.
+2019-09-20T11:12:32.5912705-04:00;Thread#13;Info;Successfully generated reports
+2019-09-20T11:12:32.6002670-04:00:Total: 3
+2019-09-20T11:12:32.6022657-04:00:Succeeded: 3
+2019-09-20T11:12:32.6022657-04:00:Ignored: 0
+2019-09-20T11:12:32.6032652-04:00:Pending: 0
+2019-09-20T11:12:32.6032652-04:00:Skipped: 0
+2019-09-20T11:12:32.6032652-04:00:Failed: 0
+2019-09-20T11:12:32.6172578-04:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-20T11:12:32.6172578-04:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\TestResults\Unnamed project__2019-09-20T111150.html'
+========== End of log file ==========

@@ -1,0 +1,120 @@
+﻿2019-09-20T10:00:47.8237676-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-20T10:00:47.8237676-04:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-09-20T10:00:47.8237676-04:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-20T10:00:47.8957263-04:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Admin\bin\Debug\StudentBlue.AcceptanceTests.Admin.dll
+2019-09-20T10:00:47.8967258-04:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\TestResults" (default)
+2019-09-20T10:00:47.8967258-04:00;VSTestExecutionThread;Info;Profile: 
+2019-09-20T10:00:47.9327064-04:00;VSTestExecutionThread;Info;Log file path: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\TestResults\Unnamed project__2019-09-20T100047.log
+2019-09-20T10:00:47.9776787-04:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-20T10:00:47.9876743-04:00;Thread#13;Info;Checking license
+2019-09-20T10:00:48.0066638-04:00;Thread#13;Info;Evaluation mode: test execution starts in 8 seconds... (this delay is removed in the registered version)
+2019-09-20T10:00:56.0082815-04:00;Thread#13;Info;Evaluation delay finished.
+2019-09-20T10:00:56.0301791-04:00;Thread#13;Info;License check completed
+2019-09-20T10:00:56.0311809-04:00;Thread#13;Info;starting test run
+2019-09-20T10:00:56.0601628-04:00;Thread#13;Info;Discovering target: Default
+2019-09-20T10:00:56.0601628-04:00;Thread#13;Info;Discovering tests from assembly: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Admin\bin\Debug\StudentBlue.AcceptanceTests.Admin.dll
+2019-09-20T10:00:56.5650957-04:00:Appdomain Disposed
+2019-09-20T10:00:56.5650957-04:00;Thread#13;Info;Discovered tests from assembly: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Admin\bin\Debug\StudentBlue.AcceptanceTests.Admin.dll
+2019-09-20T10:00:56.5660941-04:00:Test Suite Dump
+2019-09-20T10:00:56.5680955-04:00:#0: Unnamed project/ - 
+2019-09-20T10:00:56.5680955-04:00:#1: Default - 
+2019-09-20T10:00:56.5680955-04:00:#2: StudentBlue.AcceptanceTests.Admin - 
+2019-09-20T10:00:56.5680955-04:00:#3: Login - 
+2019-09-20T10:00:56.6280587-04:00:#4: Log in with SBAdmin - TestAssembly:StudentBlue.AcceptanceTests.Admin/Feature:Login/Scenario:Log+in+with+SBAdmin
+2019-09-20T10:00:56.6280587-04:00:#5: Failed Log in - TestAssembly:StudentBlue.AcceptanceTests.Admin/Feature:Login/Scenario:Failed+Log+in
+2019-09-20T10:00:56.6280587-04:00:End: Test Suite Dump
+2019-09-20T10:00:56.6560451-04:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-20T10:00:56.6580437-04:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-09-20T10:00:56.6580437-04:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-09-20T10:00:56.6640381-04:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-20T10:00:56.6640381-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-09-20T10:00:56.6640381-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-09-20T10:00:56.6640381-04:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-09-20T10:00:56.6670363-04:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-09-20T10:00:56.6680374-04:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-09-20T10:00:56.6700356-04:00:Thread #0: creating new test thread executor for StudentBlue.AcceptanceTests.Admin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-09-20T10:00:56.6720327-04:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-09-20T10:00:56.6730326-04:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-09-20T10:00:56.6740318-04:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-09-20T10:00:57.0558312-04:00:Thread#0: Test #4/0 is started on thread #0
+2019-09-20T10:00:57.2656352-04:00:Thread#0:T:-> Loading plugin C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Admin\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-09-20T10:00:57.2935994-04:00:Thread#0:T:-> Using default config
+2019-09-20T10:00:57.3565608-04:00:Thread#0:B:Given I am at the login page
+2019-09-20T10:01:07.4619974-04:00:Thread#0:T:done: LoginSteps.GivenIAmAtTheLoginPage() (10.0s)
+2019-09-20T10:01:07.4639968-04:00:Thread#0:B:And I have entered username 'rachman.walker+sbadmin@atlanticbt.com'
+2019-09-20T10:01:07.8777589-04:00:Thread#0:T:done: LoginSteps.GivenIHaveEnteredUsername("rachman.walker+sb...") (0.4s)
+2019-09-20T10:01:07.8787600-04:00:Thread#0:B:And I have entered password 'Password01!'
+2019-09-20T10:01:08.0246750-04:00:Thread#0:T:done: LoginSteps.GivenIHaveEnteredPassword("Password01!") (0.1s)
+2019-09-20T10:01:08.0246750-04:00:Thread#0:B:When I click login
+2019-09-20T10:01:13.2884411-04:00:Thread#0:T:done: LoginSteps.WhenIClickLogin() (5.3s)
+2019-09-20T10:01:13.2884411-04:00:Thread#0:B:Then I should be at the SBAdmin Home Page
+2019-09-20T10:01:13.4423527-04:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"css selector","selector":"div.welcome strong"}
+2019-09-20T10:01:13.4423527-04:00:Thread#0:T:  (Session info: chrome=76.0.3809.132)
+2019-09-20T10:01:13.4433530-04:00:Thread#0:T:  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 10.0.17134 x86_64)
+2019-09-20T10:01:13.5422949-04:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-09-20T10:01:13.5442940-04:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-20T10:01:13.5442940-04:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-09-20T10:01:13.5442940-04:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-09-20T10:01:13.5442940-04:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-20T10:01:13.5442940-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-09-20T10:01:13.5442940-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-09-20T10:01:13.5442940-04:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-09-20T10:01:13.5442940-04:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-09-20T10:01:13.5442940-04:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-09-20T10:01:14.7046286-04:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 17.6487974 seconds
+2019-09-20T10:01:14.7066269-04:00:Thread#0: Test #4/1 is started on thread #0
+2019-09-20T10:01:14.7076268-04:00:Thread#0:B:Given I am at the login page
+2019-09-20T10:01:23.0114332-04:00:Thread#0:T:done: LoginSteps.GivenIAmAtTheLoginPage() (8.3s)
+2019-09-20T10:01:23.0124323-04:00:Thread#0:B:And I have entered username 'rachman.walker+sbadmin@atlanticbt.com'
+2019-09-20T10:01:23.5901012-04:00:Thread#0:T:done: LoginSteps.GivenIHaveEnteredUsername("rachman.walker+sb...") (0.6s)
+2019-09-20T10:01:23.5901012-04:00:Thread#0:B:And I have entered password 'Password01!'
+2019-09-20T10:01:23.7809913-04:00:Thread#0:T:done: LoginSteps.GivenIHaveEnteredPassword("Password01!") (0.2s)
+2019-09-20T10:01:23.7809913-04:00:Thread#0:B:When I click login
+2019-09-20T10:01:29.3423097-04:00:Thread#0:T:done: LoginSteps.WhenIClickLogin() (5.6s)
+2019-09-20T10:01:29.3433096-04:00:Thread#0:B:Then I should be at the SBAdmin Home Page
+2019-09-20T10:01:29.3882843-04:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"css selector","selector":"div.welcome strong"}
+2019-09-20T10:01:29.3892831-04:00:Thread#0:T:  (Session info: chrome=76.0.3809.132)
+2019-09-20T10:01:29.3892831-04:00:Thread#0:T:  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 10.0.17134 x86_64)
+2019-09-20T10:01:29.3902830-04:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-20T10:01:29.3902830-04:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-09-20T10:01:29.3902830-04:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-09-20T10:01:29.3902830-04:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-20T10:01:29.3902830-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-09-20T10:01:29.3902830-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-09-20T10:01:29.3902830-04:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-09-20T10:01:29.3902830-04:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-09-20T10:01:29.3902830-04:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-09-20T10:01:30.4886522-04:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 15.7820253 seconds
+2019-09-20T10:01:30.4886522-04:00:Thread#0: Test #4/2 is started on thread #0
+2019-09-20T10:01:30.4886522-04:00:Thread#0:B:Given I am at the login page
+2019-09-20T10:01:38.8605945-04:00:Thread#0:T:done: LoginSteps.GivenIAmAtTheLoginPage() (8.4s)
+2019-09-20T10:01:38.8605945-04:00:Thread#0:B:And I have entered username 'rachman.walker+sbadmin@atlanticbt.com'
+2019-09-20T10:01:45.9425323-04:00:Thread#0:T:done: LoginSteps.GivenIHaveEnteredUsername("rachman.walker+sb...") (7.1s)
+2019-09-20T10:01:45.9425323-04:00:Thread#0:B:And I have entered password 'Password01!'
+2019-09-20T10:01:46.1164335-04:00:Thread#0:T:done: LoginSteps.GivenIHaveEnteredPassword("Password01!") (0.2s)
+2019-09-20T10:01:46.1164335-04:00:Thread#0:B:When I click login
+2019-09-20T10:01:51.8591015-04:00:Thread#0:T:done: LoginSteps.WhenIClickLogin() (5.7s)
+2019-09-20T10:01:51.8591015-04:00:Thread#0:B:Then I should be at the SBAdmin Home Page
+2019-09-20T10:01:51.9090734-04:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"css selector","selector":"div.welcome strong"}
+2019-09-20T10:01:51.9100726-04:00:Thread#0:T:  (Session info: chrome=76.0.3809.132)
+2019-09-20T10:01:51.9100726-04:00:Thread#0:T:  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 10.0.17134 x86_64)
+2019-09-20T10:01:51.9100726-04:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-20T10:01:51.9100726-04:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-09-20T10:01:51.9100726-04:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-09-20T10:01:51.9100726-04:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-20T10:01:51.9110721-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-09-20T10:01:51.9110721-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-09-20T10:01:51.9110721-04:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-09-20T10:01:51.9110721-04:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-09-20T10:01:51.9110721-04:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-09-20T10:01:54.4466176-04:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 23.9579654 seconds
+2019-09-20T10:01:54.4466176-04:00:Thread#0: Test #5/0 is started on thread #0
+2019-09-20T10:01:54.4486163-04:00:Thread#0:B:Given I am at the login page
+2019-09-20T10:02:04.6918693-04:00:Thread#0:T:done: LoginSteps.GivenIAmAtTheLoginPage() (10.2s)
+2019-09-20T10:02:04.6918693-04:00:Thread#0:B:And I have entered username 'NotARealUser@atlanticbt.com'
+2019-09-20T10:02:05.0286762-04:00:Thread#0:T:done: LoginSteps.GivenIHaveEnteredUsername("NotARealUser@atla...") (0.3s)
+2019-09-20T10:02:05.0296769-04:00:Thread#0:B:And I have entered password 'abcdef'
+2019-09-20T10:02:05.1386157-04:00:Thread#0:T:done: LoginSteps.GivenIHaveEnteredPassword("abcdef") (0.1s)
+2019-09-20T10:02:05.1386157-04:00:Thread#0:B:When I click login
+2019-09-20T10:02:09.6655484-04:00:Thread#0:T:done: LoginSteps.WhenIClickLogin() (4.5s)
+2019-09-20T10:02:09.6655484-04:00:Thread#0:B:Then I should be at the login page

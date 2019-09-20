@@ -1,0 +1,45 @@
+﻿2019-09-17T16:07:37.8139722-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-17T16:07:37.8139722-04:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-09-17T16:07:37.8139722-04:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-17T16:07:37.8789342-04:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\bin\Debug\BDDAutomationProjectTemplate.dll
+2019-09-17T16:07:37.8789342-04:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\TestResults" (default)
+2019-09-17T16:07:37.8789342-04:00;VSTestExecutionThread;Info;Profile: 
+2019-09-17T16:07:37.9249081-04:00;VSTestExecutionThread;Info;Log file path: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\TestResults\Unnamed project__2019-09-17T160737.log
+2019-09-17T16:07:37.9688829-04:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-17T16:07:37.9858732-04:00;Thread#13;Info;Checking license
+2019-09-17T16:07:38.0148563-04:00;Thread#13;Info;Evaluation mode: test execution starts in 12 seconds... (this delay is removed in the registered version)
+2019-09-17T16:07:50.0161693-04:00;Thread#13;Info;Evaluation delay finished.
+2019-09-17T16:07:50.0221676-04:00;Thread#13;Info;License check completed
+2019-09-17T16:07:50.0221676-04:00;Thread#13;Info;starting test run
+2019-09-17T16:07:50.0781336-04:00;Thread#13;Info;Discovering target: Default
+2019-09-17T16:07:50.0781336-04:00;Thread#13;Info;Discovering tests from assembly: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\bin\Debug\BDDAutomationProjectTemplate.dll
+2019-09-17T16:07:50.2330447-04:00:Appdomain Disposed
+2019-09-17T16:07:50.2330447-04:00;Thread#13;Info;Discovered tests from assembly: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\bin\Debug\BDDAutomationProjectTemplate.dll
+2019-09-17T16:07:50.2350445-04:00:Test Suite Dump
+2019-09-17T16:07:50.2360441-04:00:#0: Unnamed project/ - 
+2019-09-17T16:07:50.2360441-04:00:End: Test Suite Dump
+2019-09-17T16:07:50.2610291-04:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-17T16:07:50.2620290-04:00:Thread#:Scheduler: at the end of normal test queue
+2019-09-17T16:07:50.2620290-04:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-09-17T16:07:50.2630289-04:00:Thread#0:Scheduler: No more tests for thread
+2019-09-17T16:07:50.2650280-04:00:Trying to cancel thread
+2019-09-17T16:07:50.2650280-04:00:Thread cancelled
+2019-09-17T16:07:50.2710227-04:00:Thread#-1:Scheduler: get next test for thread -1
+2019-09-17T16:07:50.2710227-04:00:Thread#:Scheduler: at the end of normal test queue
+2019-09-17T16:07:50.2710227-04:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-09-17T16:07:50.2720235-04:00;Thread#13;Info;test run finished
+2019-09-17T16:07:50.2730222-04:00;Thread#13;Info;publishing test results
+2019-09-17T16:07:50.3269919-04:00;Thread#13;Info;test results published
+2019-09-17T16:07:50.3269919-04:00;Thread#13;Info;generating reports
+2019-09-17T16:07:50.4319322-04:00;Thread#13;Info;Starting external report generation process
+2019-09-17T16:07:54.4696173-04:00;Thread#13;Error;Could not generate test run result reports. An error occurred in the generator.
+2019-09-17T16:07:54.4696173-04:00;Thread#13;Error;External program returned exit code '-2'
+2019-09-17T16:07:54.4696173-04:00;Thread#13;Info;Failed generating reports
+2019-09-17T16:07:54.4856090-04:00:Total: 0
+2019-09-17T16:07:54.4906054-04:00:Succeeded: 0
+2019-09-17T16:07:54.4926048-04:00:Ignored: 0
+2019-09-17T16:07:54.4946027-04:00:Pending: 0
+2019-09-17T16:07:54.4946027-04:00:Skipped: 0
+2019-09-17T16:07:54.4966026-04:00:Failed: 0
+2019-09-17T16:07:54.5135925-04:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

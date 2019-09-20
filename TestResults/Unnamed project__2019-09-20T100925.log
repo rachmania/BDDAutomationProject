@@ -1,0 +1,77 @@
+﻿2019-09-20T10:09:25.3313548-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-20T10:09:25.3313548-04:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-09-20T10:09:25.3313548-04:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-20T10:09:25.4213034-04:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Admin\bin\Debug\StudentBlue.AcceptanceTests.Admin.dll
+2019-09-20T10:09:25.4223029-04:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\TestResults" (default)
+2019-09-20T10:09:25.4223029-04:00;VSTestExecutionThread;Info;Profile: 
+2019-09-20T10:09:25.4672772-04:00;VSTestExecutionThread;Info;Log file path: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\TestResults\Unnamed project__2019-09-20T100925.log
+2019-09-20T10:09:25.5112520-04:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-20T10:09:25.5252438-04:00;Thread#13;Info;Checking license
+2019-09-20T10:09:25.5522278-04:00;Thread#13;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2019-09-20T10:09:39.5540773-04:00;Thread#13;Info;Evaluation delay finished.
+2019-09-20T10:09:39.5740654-04:00;Thread#13;Info;License check completed
+2019-09-20T10:09:39.5750641-04:00;Thread#13;Info;starting test run
+2019-09-20T10:09:39.5960692-04:00;Thread#13;Info;Discovering target: Default
+2019-09-20T10:09:39.5960692-04:00;Thread#13;Info;Discovering tests from assembly: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Admin\bin\Debug\StudentBlue.AcceptanceTests.Admin.dll
+2019-09-20T10:09:40.0797704-04:00:Appdomain Disposed
+2019-09-20T10:09:40.0797704-04:00;Thread#13;Info;Discovered tests from assembly: C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Admin\bin\Debug\StudentBlue.AcceptanceTests.Admin.dll
+2019-09-20T10:09:40.0807692-04:00:Test Suite Dump
+2019-09-20T10:09:40.0827678-04:00:#0: Unnamed project/ - 
+2019-09-20T10:09:40.0827678-04:00:#1: Default - 
+2019-09-20T10:09:40.0827678-04:00:#2: StudentBlue.AcceptanceTests.Admin - 
+2019-09-20T10:09:40.0827678-04:00:#3: Login - 
+2019-09-20T10:09:40.1267620-04:00:#5: Failed Log in - TestAssembly:StudentBlue.AcceptanceTests.Admin/Feature:Login/Scenario:Failed+Log+in
+2019-09-20T10:09:40.1267620-04:00:End: Test Suite Dump
+2019-09-20T10:09:40.1517517-04:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-20T10:09:40.1537456-04:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-09-20T10:09:40.1537456-04:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-09-20T10:09:40.1577433-04:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-20T10:09:40.1577433-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-09-20T10:09:40.1577433-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-09-20T10:09:40.1577433-04:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-09-20T10:09:40.1587262-04:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-09-20T10:09:40.1597427-04:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-09-20T10:09:40.1627405-04:00:Thread #0: creating new test thread executor for StudentBlue.AcceptanceTests.Admin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-09-20T10:09:40.1647396-04:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-09-20T10:09:40.1657209-04:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-09-20T10:09:40.1677409-04:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-09-20T10:09:40.2712408-04:00:Thread#0: Test #5/0 is started on thread #0
+2019-09-20T10:09:40.4665983-04:00:Thread#0:T:-> Loading plugin C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\StudentBlue.AcceptanceTests.Admin\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-09-20T10:09:40.4756110-04:00:Thread#0:T:-> Using default config
+2019-09-20T10:09:40.5455537-04:00:Thread#0:B:Given I am at the login page
+2019-09-20T10:09:45.8119426-04:00:Thread#0:T:done: LoginSteps.GivenIAmAtTheLoginPage() (5.1s)
+2019-09-20T10:09:45.8129425-04:00:Thread#0:B:And I have entered username 'NotARealUser@atlanticbt.com'
+2019-09-20T10:09:46.0518050-04:00:Thread#0:T:done: LoginSteps.GivenIHaveEnteredUsername("NotARealUser@atla...") (0.2s)
+2019-09-20T10:09:46.0518050-04:00:Thread#0:B:And I have entered password 'abcdef'
+2019-09-20T10:09:46.1417548-04:00:Thread#0:T:done: LoginSteps.GivenIHaveEnteredPassword("abcdef") (0.1s)
+2019-09-20T10:09:46.1417548-04:00:Thread#0:B:When I click login
+2019-09-20T10:09:49.8033341-04:00:Thread#0:T:done: LoginSteps.WhenIClickLogin() (3.7s)
+2019-09-20T10:09:49.8033341-04:00:Thread#0:B:Then I should be at the login page
+2019-09-20T10:09:49.8503059-04:00:Thread#0:T:done: LoginSteps.ThenIShouldBeAtTheLoginPage() (0.0s)
+2019-09-20T10:09:49.8593005-04:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-20T10:09:49.8593005-04:00:Thread#:Scheduler: at the end of normal test queue
+2019-09-20T10:09:49.8593005-04:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-09-20T10:09:49.8593005-04:00:Thread#0:Scheduler: No more tests for thread
+2019-09-20T10:09:50.6748323-04:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 10.4025924 seconds
+2019-09-20T10:09:50.6938210-04:00:Appdomain Disposed
+2019-09-20T10:09:50.6948209-04:00:Trying to cancel thread
+2019-09-20T10:09:50.6948209-04:00:Thread cancelled
+2019-09-20T10:09:50.7028163-04:00:Thread#-1:Scheduler: get next test for thread -1
+2019-09-20T10:09:50.7028163-04:00:Thread#:Scheduler: at the end of normal test queue
+2019-09-20T10:09:50.7028163-04:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-09-20T10:09:50.7038162-04:00;Thread#13;Info;test run finished
+2019-09-20T10:09:50.7038162-04:00;Thread#13;Info;publishing test results
+2019-09-20T10:09:50.7148102-04:00;Thread#13;Info;test results published
+2019-09-20T10:09:50.7148102-04:00;Thread#13;Info;generating reports
+2019-09-20T10:09:50.8538540-04:00;Thread#13;Info;Starting external report generation process
+2019-09-20T10:09:53.6367817-04:00;Thread#13;Info;Successfully generated reports.
+2019-09-20T10:09:53.6397810-04:00;Thread#13;Info;Successfully generated reports
+2019-09-20T10:09:53.6537744-04:00:Total: 1
+2019-09-20T10:09:53.6567706-04:00:Succeeded: 1
+2019-09-20T10:09:53.6577709-04:00:Ignored: 0
+2019-09-20T10:09:53.6597700-04:00:Pending: 0
+2019-09-20T10:09:53.6597700-04:00:Skipped: 0
+2019-09-20T10:09:53.6607691-04:00:Failed: 0
+2019-09-20T10:09:53.6747609-04:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-20T10:09:53.6757608-04:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\rachmanw\source\repos\BDDAutomationProjectTemplate\TestResults\Unnamed project__2019-09-20T100925.html'
+========== End of log file ==========
